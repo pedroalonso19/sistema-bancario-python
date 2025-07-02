@@ -6,11 +6,11 @@ Este projeto é uma aplicação de terminal desenvolvida em Python que simula op
 
 O sistema oferece as seguintes funcionalidades:
 
-1. **Depósito**
+`1`. **Depósito**
    - Permite ao usuário inserir um valor positivo para depósito.
    - Atualiza o saldo e registra a operação no extrato.
 
-2. **Saque**
+`2`. **Saque**
    - Permite saques limitados a 3 por sessão.
    - Cada saque possui limite de R$500,00.
    - Verifica:
@@ -19,11 +19,11 @@ O sistema oferece as seguintes funcionalidades:
      - Se ainda não atingiu o número máximo de saques.
    - Atualiza o saldo e registra a operação no extrato.
 
-3. **Extrato**
+`3`. **Extrato**
    - Exibe todas as operações realizadas (depósitos e saques).
    - Mostra o saldo final.
 
-4. **Sair**
+`0`. **Sair**
    - Encerra a aplicação.
 
 ## ⚙️ Como funciona
@@ -41,10 +41,10 @@ O sistema utiliza um **laço `while True`** para manter o programa em execução
 ## 💡 Exemplo de uso
 
 ========Digite a opção desejada=========
-1. Depósito
-2. Saque
-3. Extrato
-0. Sair
+`1`. Depósito
+`2`. Saque
+`3`. Extrato
+`0`. Sair
 
 
 Ao selecionar `1`, o usuário será solicitado a digitar o valor do depósito.
