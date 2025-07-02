@@ -40,11 +40,11 @@ O sistema utiliza um **laço `while True`** para manter o programa em execução
 
 ## 💡 Exemplo de uso
 
-========Digite a opção desejada=========
-`1`. Depósito
-`2`. Saque
-`3`. Extrato
-`0`. Sair
+========Digite a opção desejada========= <br>
+`1`. Depósito <br>
+`2`. Saque <br>
+`3`. Extrato <br>
+`0`. Sair 
 
 
 Ao selecionar `1`, o usuário será solicitado a digitar o valor do depósito.
