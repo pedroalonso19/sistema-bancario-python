@@ -65,3 +65,6 @@ Ao selecionar `0`, o funcionamento será interrompido.
 - O sistema não possui autenticação.
 - O extrato é exibido apenas na sessão atual.
 
+## 🙋 Desenvolvedor
+Pedro Alonso Ribeiro Ferreira da Silva
+
